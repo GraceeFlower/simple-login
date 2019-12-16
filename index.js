@@ -7,6 +7,7 @@ function checkAccount() {
   if (objectUser.value === "123" && objectPassword.value === "123") {
     alert("Welcome! You are the apple of my eyes.");
     objectSubmit.style.backgroundColor = "#ddd";
+    objectSubmit.setAttribute("disabled", "disabled");
   } else if (objectPassword.value !== "123" && objectUser.value === "123") {
     alert("Please enter the right password!");
     objectPassword.value = null;

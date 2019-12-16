@@ -11,3 +11,4 @@ Tell you the secret!
 If you enter **"123"** for both the input boxes,  
 and click the button,    
 you will be the treasure person of me~  
+After that, the submit button will be forbidden and turn to gray. 

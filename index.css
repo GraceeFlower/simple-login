@@ -40,3 +40,7 @@ input, button {
   color: #fff;
   background-color: rgb(137, 183, 201);
 }
+
+#blank {
+  display: none;
+}

@@ -13,7 +13,7 @@ input, button {
   outline: none;
 }
 
-.login {
+#login {
   margin: 100px auto;
   width: 400px;
   height: 280px;
@@ -23,7 +23,7 @@ input, button {
   color: rgb(103, 103, 103);
 }
 
-.login > input {
+#login > input {
   display: block;
   width: 300px;
   height: 30px;
@@ -31,7 +31,7 @@ input, button {
   padding: 5px;
 }
 
-.login > button {
+#login > button {
   width: 260px;
   height: 30px;
   border: none;
